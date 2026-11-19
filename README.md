@@ -1,5 +1,7 @@
 # NWatch ESP32-C3 Web Installer — 6.7.2
 
+HOMEPAGE: https://www.huyvector.org/smart-devices/esp32-smart-watch
+
 Trang web tĩnh để cài NWatch cho ESP32-C3 Super Mini trực tiếp bằng ESP Web Tools.
 
 ## Chạy cục bộ
